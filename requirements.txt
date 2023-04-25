@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+numpy==1.21.0
+pycuda==2022.2.2
+scikit-cuda==0.5.3
+sympy==1.11.1
